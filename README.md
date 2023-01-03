@@ -4,7 +4,8 @@
 
 ### Pré-requisitos
 
-- Saber como trabalhar com um arquivos JSOM.
+- Saber como trabalhar com um arquivos JSON
+- Saber sobre status e métodos HTTP
 
 ### Ferramentas
 
